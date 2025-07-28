@@ -1,7 +1,5 @@
-# Contributing to the FHERMA Cookbook
 
-## What is the FHERMA Cookbook?
-
+# FHERMA Cookbook: FHE Components for Privacy-Preserving Applications 
 The **FHERMA Cookbook** is an academic, community-maintained resource focused on the **application layer of Fully Homomorphic Encryption (FHE)**.  
 
   
